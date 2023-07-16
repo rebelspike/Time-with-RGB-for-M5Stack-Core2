@@ -11,8 +11,8 @@
 CRGB leds[NUM_LEDS];
 
 // Set the name and password of the wifi to be connected
-const char* ssid = "Next Door";
-const char* password = "ssksaima1";
+const char* ssid = "ssid";
+const char* password = "password";
 
 const char* ntpServer = "time1.google.com";  //Set the connect NTP server
 //const char* ntpServer = "pool.ntp.org";
