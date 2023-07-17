@@ -1,7 +1,6 @@
 /*
 * Author: Kamran A.
-* Describe: NTP TIME WITH LEDs
-* Date: 7/16/23
+* Description: NTP TIME WITH LEDs
 */
 
 #include <M5Core2.h>
